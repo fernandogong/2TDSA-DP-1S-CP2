@@ -10,8 +10,6 @@ O objetivo do projeto se resume a criar um modelo de rede neural que consiga pre
 
 ## Instruções do professor
 
-Além das instruções dentro do arquivo [`Arquivo_base.ipynb`](/adicionais/Arquivo_base.ipynb), foram dadas as seguintes instruções reescritas por mim de maneira mais sucinta:
-
 - Avaliação **INDIVIDUAL**;
 - **Objetivo:**
 Avaliar conceitos sobre Aprendizado Profundo com Redes Neurais;

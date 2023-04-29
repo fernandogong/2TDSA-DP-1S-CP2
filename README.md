@@ -32,10 +32,6 @@ Implemente uma rede neural que seja capaz de classificar corretamente os dados;
     - preencher o google forms de avaliação disponibilizado pelo professor;
     - subir o código em um repositório do github.
     
-# Interpretações e considerações
-**Esse tópico também consta no arquivo principal do projeto, o [`CheckPoint_Rede_neural.ipynb`](/CheckPoint_Rede_neural.ipynb).**
-
-
 ## Autor
 Feito por [@fernandogong](https://github.com/fernandogong). Entre em contato!
 

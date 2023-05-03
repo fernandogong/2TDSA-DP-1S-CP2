@@ -2,6 +2,10 @@
 
 Projeto desenvolvido para avaliação da disciplina Disruptive Architectures - IOT, IOB AND IA. O conteúdo que se segue nesse README foi escrito baseado no projeto e nas instruções do professor.
 
+<div align="center">
+    <img src="estreladomar.png" alt="grafico de dados">
+</div>
+
 ### Resumo
 
 Foi-nos fornecido um algoritmo que gera, baseado no RM do aluno, dois conjuntos de dados aleatórios. A quantidade de linhas varia e depende da soma dos números do códico de identificação do aluno.

@@ -35,7 +35,7 @@ Implemente uma rede neural que seja capaz de classificar corretamente os dados;
     - subir o código em um repositório do github.
     
 ## Autor
-Feito por [@fernandogong](https://github.com/fernandogong). Entre em contato!
+Feito por [@fernandogong](https://github.com/fernandogong).
 
 LinkedIn: [Fernando Gong](https://www.linkedin.com/in/fernando-gong/) <br>
 Email: [fernand0cg0ng@gmail.com](mailto:fernand0cg0ng@gmail.com)

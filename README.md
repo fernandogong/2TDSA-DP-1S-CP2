@@ -1,6 +1,6 @@
-# Semestre 1 - Checkpoint 02 - Redes Neurais
+<h1 align="center">Redes Neurais - classificação</h1>
 
-Projeto desenvolvido para avaliação da disciplina Disruptive Architectures - IOT, IOB AND IA. O conteúdo que se segue nesse README foi escrito baseado no projeto e nas instruções do professor.
+<h3 align="center">Projeto desenvolvido para avaliação da disciplina Disruptive Architectures - IOT, IOB AND IA. O conteúdo que se segue nesse README foi escrito baseado no projeto e nas instruções do professor.</h3>
 
 <div align="center">
     <img src="estreladomar.png" alt="grafico de dados">
